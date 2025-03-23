@@ -78,12 +78,12 @@ The script configures the following autoscaling parameters:
 ## Logs
 
 The script provides colored log output with timestamps for easy monitoring:
-- 🟢 INFO: General information
-- 🟡 WARNING: Warning messages
-- 🔴 ERROR: Error messages
-- 🔵 COMMAND: Command execution
-- 🟣 HEADER: Section headers
-- 🔵 SUCCESS: Success messages
+-  INFO: General information
+-  WARNING: Warning messages
+-  ERROR: Error messages
+-  COMMAND: Command execution
+-  HEADER: Section headers
+-  SUCCESS: Success messages
 
 ## Troubleshooting
 
@@ -105,10 +105,4 @@ To customize the application:
 2. Adjust the VM instance type (currently e2-medium) as needed for your workload.
 3. Change the autoscaling parameters to match your application's requirements.
 
-## License
 
-[Add your license information here]
-
-## Author
-
-[Add author information here]
